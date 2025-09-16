@@ -17,7 +17,7 @@ Each directory contains the code in a Jupyter notebook, the pickle files of the 
 
 # Installation
 
-- Python 3.9 (tested with Python 3.9.0) 
+- This code is run on Python 3.9.0 and CPLEX 22.1.1.0 
 - IBM ILOG CPLEX Optimization Studio (full license). The free community edition of CPLEX is not sufficient due to its variable and problem size limits.
 - PyTorch (for Hawkes process parameter estimation) 
 - Standard Python libraries: `numpy`, `scipy`, `matplotlib`, `pandas`
