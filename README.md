@@ -7,6 +7,7 @@
 
 
 The repository introduces the code as well as the data. The code was already run in saved in Pickle files for reproducibility. The repository contains:
+- Sanity check of the MILP algorithm in in /CPLEX_sanity_check directory
 - Chicago complaint data for the Chicago Police Department.
 - Indianapolis use-of-force data from the Indianapolis Metropolitan Police Department. 
 - Massachusetts complaint & disciplinary data from the Massachusetts POST Commission. 
